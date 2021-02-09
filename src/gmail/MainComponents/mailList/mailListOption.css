@@ -1,0 +1,25 @@
+.mailListOption {
+  /* border: 1px solid violet; */
+  display: flex;
+  padding: 15px;
+  width: 250px;
+  cursor: pointer;
+  color: grey;
+  font-weight: 500;
+  font-size: 0.9rem;
+  align-items: center;
+  /* border-width: 0; */
+}
+
+.mailListOption > p {
+  margin-left: 20px;
+}
+
+.mailListOption:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.mailListOption-selected {
+  color: red;
+}

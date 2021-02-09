@@ -1,0 +1,32 @@
+.mailList {
+  /* border: 1px solid blue; */
+  flex: 1;
+}
+
+.mailList__settings {
+  /* border: 1px solid green; */
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  position: sticky;
+  /* top: 0; */
+  padding: 5px;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.mailList__settingsLeft {
+  /* border: 1px solid red; */
+}
+
+.mailList__settingsRight {
+  /* border: 1px solid rgb(128, 0, 107); */
+}
+
+.mailList__options {
+  /* border: 1px solid rgb(0, 23, 128); */
+  display: flex;
+  /* padding: 10px; */
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid whitesmoke;
+}
