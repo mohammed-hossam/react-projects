@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Practicing React-framework through different projects like:  
 Some of JohnSmilga-projects.  
-GoogleDrive-clone.  
+GoogleDrive-clone from sonny sangha.  
 ### Used tools:  
 Redux  
 firebase  
